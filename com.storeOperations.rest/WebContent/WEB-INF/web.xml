@@ -21,7 +21,6 @@
   </servlet>
   <servlet-mapping>
   	<servlet-name>Store REST Service</servlet-name>
-  	<url-pattern>/store/*</url-pattern>	
+  	<url-pattern>/api/*</url-pattern>	
   </servlet-mapping>
-  
 </web-app>
